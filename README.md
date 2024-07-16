@@ -61,7 +61,7 @@ Si tienes alguna pregunta o encuentras algún problema, no dudes en abrir un iss
 
 ## Créditos
 
-- Este proyecto ha sido desarrollado por [Tu Nombre]
+- Este proyecto ha sido desarrollado por Diego Martinez Fernandez @Dgmtnz
 - Inspirado en los cursos de Sistemas Lineales y Procesamiento de Señales
 - Construido con Python, NumPy, Matplotlib y Tkinter
 
