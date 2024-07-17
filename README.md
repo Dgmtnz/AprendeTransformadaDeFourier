@@ -40,7 +40,7 @@ pip install numpy matplotlib scipy
 ```
 4. Ejecuta la aplicación:
 ```
-python main.py
+python TransformacionFourier.py
 ```
 ## Uso
 
